@@ -1,0 +1,4 @@
+images/
+.env
+vendor/
+node_modules/
