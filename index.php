@@ -21,8 +21,10 @@ if (isset($_FILES['foto'])) {
 <html lang="pt-br">
 
 <head>
+    
     <meta charset="UTF-8">
     <title>Upload</title>
+   <link rel="stylesheet" href="stylesheet.css">
 </head>
 
 <body>
